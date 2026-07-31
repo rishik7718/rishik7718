@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 I'm currently working on<br>Building C++ projects, improving my GitHub profile, and strengthening my DSA fundamentals.<br>👯 I'm looking to collaborate on<br>Beginner-friendly open-source projects, C++ projects, and web development.<br>🤝 I'm looking for help with<br>Open source, DSA, web development, and AI/ML.<br>🌱 I'm currently learning<br>C++, Data Structures & Algorithms, Git & GitHub, and Web Development.<br>💬 Ask me about<br>C++, GitHub, DSA, beginner programming, and engineering student life.<br>⚡ Fun fact<br>I love turning ideas into projects and believe learning by building is the fastest way to grow.🔭
 
 
